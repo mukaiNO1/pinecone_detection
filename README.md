@@ -6,4 +6,3 @@ The dataset class format is consistent to pytorch's.
 
 In training, if the loss doesn't converge to an ideal point, tuning the weight of mask loss and keypoint loss might help.
 The weight given in the script is suitable for the example data
-数据集 请联系mukai6691@163.com，并注明单位+理由
